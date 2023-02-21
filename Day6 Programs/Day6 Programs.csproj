@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="2darr.cs" />
     <Compile Include="2darr3.cs" />
+    <Compile Include="addmat.cs" />
     <Compile Include="arr1.cs" />
     <Compile Include="ipmatrixarr.cs" />
     <Compile Include="Program.cs" />
