@@ -49,6 +49,7 @@
     <Compile Include="addmat.cs" />
     <Compile Include="arr1.cs" />
     <Compile Include="arrfns.cs" />
+    <Compile Include="htablepgm.cs" />
     <Compile Include="ipmatrixarr.cs" />
     <Compile Include="Jaggedarr.cs" />
     <Compile Include="Program.cs" />
