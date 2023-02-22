@@ -51,7 +51,24 @@ namespace Day6_Programs
                 Console.WriteLine(item);
             }
 
+            
+
+            ArrayList arr1 = new ArrayList();
+            arr1.Add(10);
+            arr1.Add(40);
+            arr1.Add(50);
+
+            arr.AddRange(arr1);
+
+            Console.WriteLine("Array elements after adding another array elements");
+
+            foreach (var item in arr)
+            {
+                Console.WriteLine(item);
+            }
+
             Console.ReadLine();
+
 
 
         }
