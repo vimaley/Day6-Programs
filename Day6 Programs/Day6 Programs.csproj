@@ -49,6 +49,7 @@
     <Compile Include="addmat.cs" />
     <Compile Include="arr1.cs" />
     <Compile Include="arrfns.cs" />
+    <Compile Include="fnex.cs" />
     <Compile Include="genericfnpgm.cs" />
     <Compile Include="genfnex2.cs" />
     <Compile Include="genfnmethodpgm.cs" />
