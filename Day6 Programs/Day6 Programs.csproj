@@ -52,6 +52,7 @@
     <Compile Include="Jaggedarr.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="queuepgm.cs" />
     <Compile Include="Stackpgm.cs" />
   </ItemGroup>
   <ItemGroup>
