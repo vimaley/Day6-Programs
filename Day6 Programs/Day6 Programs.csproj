@@ -50,6 +50,8 @@
     <Compile Include="arr1.cs" />
     <Compile Include="arrfns.cs" />
     <Compile Include="genericfnpgm.cs" />
+    <Compile Include="genfnex2.cs" />
+    <Compile Include="genfnmethodpgm.cs" />
     <Compile Include="htablepgm.cs" />
     <Compile Include="ipmatrixarr.cs" />
     <Compile Include="Jaggedarr.cs" />

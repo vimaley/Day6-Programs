@@ -6,11 +6,14 @@
 
 //namespace Day6_Programs
 //{
-//    class A<T>
+//    public class Student<T> 
 //    {
-//        public A(T msg)
+//        public T data;
+
+//        public Student(T data)
 //        {
-//            Console.WriteLine(msg);
+//            this.data = data;
+//            Console.WriteLine("Data passed: " + this.data);
 //        }
 //    }
 
@@ -18,10 +21,8 @@
 //    {
 //        static void Main(string[] args)
 //        {
-//            A<string> gen = new A<string>("This is genric class");
-//            A<int> genI = new A<int>(101);
-//            A<char> gench = new A<char>('I');
-
+//            Student<string> gen = new Student<string>("Vimal");
+//            Student<int> gen1 = new Student<int>(15);
 //            Console.ReadLine();
 //        }
 //    }
